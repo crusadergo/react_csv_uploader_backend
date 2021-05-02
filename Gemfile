@@ -6,6 +6,7 @@ ruby '3.0.0'
 gem 'pg'
 gem 'rails', '~> 6.1.3', '>= 6.1.3.1'
 gem 'puma', '~> 5.0'
+gem 'csv'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
